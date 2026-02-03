@@ -1,6 +1,3 @@
-# insightbridge-ai
-AI-powered Profit &amp; Growth Decision Intelligence Agent
-
 # InsightBridge
 
 **InsightBridge** is an AI-powered Profit and Growth Decision Intelligence Agent designed to support executive decision-making.
